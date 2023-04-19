@@ -1,2 +1,1 @@
-#!/bin/bash
-A read me file for shell basics
+THIS IS A README FILE FOR SHELL REDIRECTIONS
